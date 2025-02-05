@@ -25,21 +25,6 @@
 ###
 <h2>🚀 Currently Exploring</h2>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50"/>
-      <strong>Next.js</strong>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
-      <strong>Deepening JavaScript</strong>
-    </td>
-  </tr>
-</table>
-
-<h2>🚀 Currently Exploring</h2>
-
 <ul>
   <li>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="20"/>
