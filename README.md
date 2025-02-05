@@ -23,6 +23,30 @@
 <p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning express, mongodb <br>🎯 Goals: Wants to be a proficient frontend developer in 2025<br>🎲 Fun fact: Love to watch Cartoons</p>
 
 ###
+<h2>🚀 Currently Exploring</h2>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50"/>
+      <strong>Next.js</strong>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
+      <strong>Deepening JavaScript</strong>
+    </td>
+  </tr>
+</table>
+
+<p>
+  🔥 Currently learning <strong>Next.js</strong> and diving deeper into <strong>JavaScript</strong> to level up my frontend skills!  
+  <br/>
+  <em>Building scalable and high-performance web applications!</em>
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00eeff&width=400&lines=Mastering+JavaScript!;Exploring+Next.js!;Building+Awesome+Projects!">
+
+###
 
 <h2 align="left">I code with</h2>
 
