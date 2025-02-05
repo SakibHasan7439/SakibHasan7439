@@ -38,13 +38,25 @@
   </tr>
 </table>
 
+<h2>🚀 Currently Exploring</h2>
+
+<ul>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="20"/>
+    <strong> Learning Next.js </strong> – Exploring server-side rendering and static site generation.
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20"/>
+    <strong> Deepening JavaScript </strong> – Mastering advanced concepts like closures, async/await, and the event loop.
+  </li>
+</ul>
+
 <p>
-  🔥 Currently learning <strong>Next.js</strong> and diving deeper into <strong>JavaScript</strong> to level up my frontend skills!  
-  <br/>
-  <em>Building scalable and high-performance web applications!</em>
+  🔥 Currently improving my frontend skills to build scalable and high-performance applications!
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00eeff&width=400&lines=Mastering+JavaScript!;Exploring+Next.js!;Building+Awesome+Projects!">
+
 
 ###
 
