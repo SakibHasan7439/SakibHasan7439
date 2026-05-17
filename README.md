@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">Junior Frontend Developer</h3>
+<h3 align="left">Junior Web Developer</h3>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm a Frontend Developer and a Computer Science and Engineering (CSE) student from Bangladesh. I specialize in building beautiful, responsive, and user-friendly web applications. I loved to code and always try to build something unique.</p>
+<p align="left">I'm a Web Developer and a Computer Science and Engineering (CSE) student from Bangladesh. I specialize in building beautiful, responsive, and user-friendly web applications. I loved to code and always try to build something unique.</p>
 
 ###
 
