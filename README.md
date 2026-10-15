@@ -2,7 +2,8 @@
   <img 
     src="https://i.ibb.co.com/BVkPfxQ5/Developer-s-Cozy-Code-Workspace.png"
     alt="Sakib Hasan - Junior Full Stack Web Developer" 
-    width="80%"
+    width="100%"
+    height="80%"
   />
 </div>
 
