@@ -1,5 +1,10 @@
 <div align="center">
-  <img height="200" src="https://ibb.co.com/xSZs20Bt"  />
+  <img 
+    height="200" 
+    src="Developer’s Cozy Code Workspace.png"
+    alt="Sakib Hasan - Junior Full Stack Web Developer"
+    width="100%"  
+  />
 </div>
 
 ###
